@@ -1,5 +1,4 @@
 # Repo for my website
-<<<<<<< HEAD
 
 Solid State by HTML5 UP
 html5up.net | @ajlkn
@@ -35,5 +34,3 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
-=======
->>>>>>> 79ee6f1e8639a001e5839c06fa42976274e2dd87
